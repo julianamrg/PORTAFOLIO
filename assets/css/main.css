@@ -342,6 +342,7 @@ footer > p {
     margin: 0 auto;
     max-width: calc(100% - 50px);
     width: 1200px;
+    height: 90vh;
 }
 
 .container.medium {
